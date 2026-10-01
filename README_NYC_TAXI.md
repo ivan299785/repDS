@@ -1,4 +1,3 @@
-<img width="650" height="401" alt="{F44C7D07-F7BB-4843-892A-292257FDE57D}" src="https://github.com/user-attachments/assets/b342f084-2f65-4471-b2d4-fd7666f3f957" />
 # Проекты по Data Science
 
 Репозиторий с учебными проектами по машинному обучению и анализу данных.
